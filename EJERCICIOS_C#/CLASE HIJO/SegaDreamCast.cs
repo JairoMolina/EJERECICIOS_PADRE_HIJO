@@ -14,7 +14,7 @@ namespace EJERCICIOS_C_.CLASE_HIJO
 
         public String MostrarDetalleSega()
         {
-            return MostrarDetalles() + "Color:" + Color;
+            return MostrarDetalles() + "Colores:" + Color;
         }
 
     }
